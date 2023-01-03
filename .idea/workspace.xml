@@ -1,19 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f6fc062e-a0a7-46ca-ac57-e7970ef0ce58" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExceptionsJava.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seminar_1/Task_0/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seminar_1/Task_1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seminar_1/Task_2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seminar_1/Task_3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seminar_1/Task_6/1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seminar_1/Task_6/Main.java" afterDir="false" />
+    <list default="true" id="f6fc062e-a0a7-46ca-ac57-e7970ef0ce58" name="Changes" comment="&quot;seminar_1&quot;">
+      <change afterPath="$PROJECT_DIR$/src/HomeWork_1/Task_2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork_1/Task_3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork_1/Task_1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork_1/Task_1/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,8 +49,16 @@
       <updated>1672740451905</updated>
       <workItem from="1672740563190" duration="2896000" />
       <workItem from="1672743860339" duration="663000" />
-      <workItem from="1672744534675" duration="11852000" />
+      <workItem from="1672744534675" duration="13758000" />
     </task>
+    <task id="LOCAL-00001" summary="&quot;seminar_1&quot;">
+      <created>1672781313615</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1672781313615</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -74,5 +74,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;seminar_1&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;seminar_1&quot;" />
   </component>
 </project>
