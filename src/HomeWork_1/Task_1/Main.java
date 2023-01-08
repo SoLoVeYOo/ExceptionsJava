@@ -19,7 +19,7 @@ public class Main {
         return Integer.parseInt(input);
     }
 
-    public static int getSum(int x) {
+    private static int getSum(int x) {
         return x + getSum(x);
     }
 
