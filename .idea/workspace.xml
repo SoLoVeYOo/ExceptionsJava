@@ -1,18 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f6fc062e-a0a7-46ca-ac57-e7970ef0ce58" name="Changes" comment="&quot;homework_1&quot;">
-      <change afterPath="$PROJECT_DIR$/src/HomeWork_2/Task_1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork_2/Task_2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork_2/Task_3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork_2/Task_4/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork_1/Task_1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork_1/Task_1/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="f6fc062e-a0a7-46ca-ac57-e7970ef0ce58" name="Changes" comment="&quot;homework_2&quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -120,7 +118,7 @@
       <workItem from="1672920291640" duration="2381000" />
       <workItem from="1672951695178" duration="658000" />
       <workItem from="1673187353027" duration="6021000" />
-      <workItem from="1673198784428" duration="4330000" />
+      <workItem from="1673198784428" duration="4719000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;seminar_1&quot;">
       <created>1672781313615</created>
@@ -136,7 +134,21 @@
       <option name="project" value="LOCAL" />
       <updated>1672783202269</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="&quot;seminar_2&quot;">
+      <created>1673203478645</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1673203478645</updated>
+    </task>
+    <task id="LOCAL-00004" summary="&quot;homework_2&quot;">
+      <created>1673203497266</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1673203497266</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -156,6 +168,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;seminar_1&quot;" />
     <MESSAGE value="&quot;homework_1&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;homework_1&quot;" />
+    <MESSAGE value="&quot;seminar_2&quot;" />
+    <MESSAGE value="&quot;homework_2&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;homework_2&quot;" />
   </component>
 </project>
