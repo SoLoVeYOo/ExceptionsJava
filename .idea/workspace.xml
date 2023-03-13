@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6fc062e-a0a7-46ca-ac57-e7970ef0ce58" name="Changes" comment="&quot;homework_2&quot;" />
+    <list default="true" id="f6fc062e-a0a7-46ca-ac57-e7970ef0ce58" name="Changes" comment="&quot;homework_2_v2&quot;">
+      <change afterPath="$PROJECT_DIR$/src/HomeWork_3_prog/CheckPersonInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork_3_prog/ChekInputInfoSize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork_3_prog/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork_3_prog/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork_3_prog/Writer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork_3_prog/Иванов.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork_3_prog/Иванова.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork_3_test/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +31,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -39,10 +55,21 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Dmitrii/Documents/GeekBrains/ExceptionsJava&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Dmitrii/Documents/GeekBrains/ExceptionsJava&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.breadcrumbs&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.HomeWork_2.Task_4.Main">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Dmitrii\Documents\GeekBrains\ExceptionsJava" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.HomeWork_3_prog.Main">
     <configuration name="HomeWork_2.Task_2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HomeWork_2.Task_2.Main" />
       <module name="ExceptionsJava" />
@@ -82,6 +109,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="HomeWork_3_prog.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork_3_prog.Main" />
+      <module name="ExceptionsJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomeWork_3_prog.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HomeWork_2.Task_1.Main" />
       <module name="ExceptionsJava" />
@@ -97,10 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HomeWork_3_prog.Main" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.HomeWork_2.Task_4.Main" />
         <item itemvalue="Application.HomeWork_2.Task_3.Main" />
         <item itemvalue="Application.HomeWork_2.Task_2.Main" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -118,7 +159,29 @@
       <workItem from="1672920291640" duration="2381000" />
       <workItem from="1672951695178" duration="658000" />
       <workItem from="1673187353027" duration="6021000" />
-      <workItem from="1673198784428" duration="4719000" />
+      <workItem from="1673198784428" duration="4930000" />
+      <workItem from="1673222561349" duration="38000" />
+      <workItem from="1673222606068" duration="9000" />
+      <workItem from="1673257345161" duration="869000" />
+      <workItem from="1673355912333" duration="178000" />
+      <workItem from="1673356096488" duration="2265000" />
+      <workItem from="1673362630019" duration="1694000" />
+      <workItem from="1673364361719" duration="32000" />
+      <workItem from="1673364400950" duration="535000" />
+      <workItem from="1673469832328" duration="1205000" />
+      <workItem from="1673516737184" duration="3273000" />
+      <workItem from="1677471382483" duration="268000" />
+      <workItem from="1677471660125" duration="36000" />
+      <workItem from="1677515729443" duration="216000" />
+      <workItem from="1677516106025" duration="411000" />
+      <workItem from="1677516524126" duration="259000" />
+      <workItem from="1677516790679" duration="1562000" />
+      <workItem from="1677921672738" duration="49000" />
+      <workItem from="1678552975178" duration="1204000" />
+      <workItem from="1678615765247" duration="5033000" />
+      <workItem from="1678636922011" duration="6497000" />
+      <workItem from="1678659345422" duration="7000" />
+      <workItem from="1678682339677" duration="18986000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;seminar_1&quot;">
       <created>1672781313615</created>
@@ -148,7 +211,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673203497266</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="&quot;homework_2_v2&quot;">
+      <created>1673203704611</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1673203704611</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -166,10 +236,13 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <MESSAGE value="&quot;seminar_1&quot;" />
     <MESSAGE value="&quot;homework_1&quot;" />
     <MESSAGE value="&quot;seminar_2&quot;" />
     <MESSAGE value="&quot;homework_2&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;homework_2&quot;" />
+    <MESSAGE value="&quot;homework_2_v2&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;homework_2_v2&quot;" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
